@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p><a href="https://community.vaunt.dev/board/muhammad-aldubouni/achievements"><img src="https://api.vaunt.dev/v1/github/entities/muhammad-aldubouni/achievements/9fc50df5-1830-4e10-afcf-db4006ae5210?format=svg&style=raw" width="300"/></a></p>
+
+<p><a href="https://community.vaunt.dev/board/muhammad-aldubouni/achievements"><img src="https://api.vaunt.dev/v1/github/entities/muhammad-aldubouni/achievements/6e63d049-7c8b-4772-87b1-a13e18afb7e1?format=svg&style=raw" width="300"/></a></p>
+
